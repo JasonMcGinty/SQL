@@ -22,7 +22,7 @@ Jason McGinty
 2024-Aug-07
 
 .github or gitlab location
-https://github.com/JasonMcGinty/SQL-TSQL/blob/primary/runningProcess.sql
+https://github.com/JasonMcGinty/SQL/blob/primary/runningProcess.sql
 
 .support tickets
 not applicable

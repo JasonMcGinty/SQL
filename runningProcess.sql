@@ -1,7 +1,7 @@
 /*
 
 .synopsis
-Find blockers and take a snapshot of current processes running on SQL Server. Hand crafted by Jason McGinty and is AI free code.
+Find blockers and take a snapshot of current processes running on SQL Server. Hand crafted by Jason McGinty and is free of AI code.
 
 .license
 The MIT License
